@@ -17,7 +17,8 @@ public class Skill implements ISkill {
 
     
     public int levelToXP(int level) {
-        return floor(0);
+        // TODO
+        return 0;
     }
     
     @Override
